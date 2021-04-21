@@ -1877,4 +1877,9 @@ form label {
   background-color: #d6e6e373
 }
 
+.row {
+  margin-right: 0px !important;
+  margin-left: 0px !important;
+}
+
 /*# sourceMappingURL=style.css.map */
