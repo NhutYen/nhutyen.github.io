@@ -1882,4 +1882,13 @@ form label {
   margin-left: 0px !important;
 }
 
+.btn-chi-duong {
+  background: #5cb85c;
+    color: #fff;
+    border: 2px solid #5cb85c;
+    padding: 15px 20px;
+    border-radius: 30px;
+    margin: 30px;
+}
+
 /*# sourceMappingURL=style.css.map */
